@@ -1,0 +1,1098 @@
+{
+  "schemaVersion": 1,
+  "eventId": "202609070433",
+  "name": "2026 Louisiana State Championship",
+  "section": "Open",
+  "source": {
+    "url": "https://ratings.uschess.org/event/202609070433",
+    "title": "2026 Louisiana State Championship | US Chess Ratings",
+    "capturedAt": "2026-11-20T03:39:34.260Z",
+    "method": "browser-visible-cell-text-and-links",
+    "live": false
+  },
+  "columns": [
+    "#",
+    "Player",
+    "Pts",
+    "R1",
+    "R2",
+    "R3",
+    "R4",
+    "R5",
+    "R6",
+    "R7"
+  ],
+  "rows": [
+    {
+      "sourceRow": 2,
+      "cells": [
+        "1\nLA",
+        "Robert\nFORNEY\n14069988\n/\nR\n2009\n2074",
+        "6.5",
+        "W\n32\n⚪️",
+        "W\n22\n⚫️",
+        "W\n17\n⚪️",
+        "W\n15\n⚫️",
+        "D\n2\n⚫️",
+        "W\n9\n⚪️",
+        "W\n6\n⚪️"
+      ],
+      "playerLinks": [
+        {
+          "href": "/player/14069988",
+          "text": "14069988"
+        }
+      ]
+    },
+    {
+      "sourceRow": 4,
+      "cells": [
+        "2\nLA",
+        "Oshrie Jhames\nREYES\n32528885\n/\nR\n2146\n2164",
+        "5.5",
+        "W\n7\n⚪️",
+        "W\n12\n⚫️",
+        "W\n16\n⚪️",
+        "W\n14\n⚫️",
+        "D\n1\n⚪️",
+        "D\n8\n⚫️",
+        "D\n4\n⚪️"
+      ],
+      "playerLinks": [
+        {
+          "href": "/player/32528885",
+          "text": "32528885"
+        }
+      ]
+    },
+    {
+      "sourceRow": 6,
+      "cells": [
+        "3\nLA",
+        "Aubrey Elijah\nSTEWART\n16088776\n/\nR\n1953\n1973",
+        "5.5",
+        "W\n43\n⚫️",
+        "W\n30\n⚪️",
+        "D\n6\n⚫️",
+        "L\n9\n⚫️",
+        "W\n22\n⚪️",
+        "W\n10\n⚪️",
+        "W\n16\n⚫️"
+      ],
+      "playerLinks": [
+        {
+          "href": "/player/16088776",
+          "text": "16088776"
+        }
+      ]
+    },
+    {
+      "sourceRow": 8,
+      "cells": [
+        "4\nLA",
+        "Nicholas F\nMATTA\n12845401\n/\nR\n2323\n2304",
+        "5.0",
+        "W\n38\n⚪️",
+        "W\n5\n⚫️",
+        "D\n9\n⚪️",
+        "L\n6\n⚫️",
+        "W\n23\n⚪️",
+        "W\n15\n⚫️",
+        "D\n2\n⚫️"
+      ],
+      "playerLinks": [
+        {
+          "href": "/player/12845401",
+          "text": "12845401"
+        }
+      ]
+    },
+    {
+      "sourceRow": 10,
+      "cells": [
+        "5\nTX",
+        "Chauncey\nROWE-WATTERS\n16727150\n/\nR\n1901\n1926",
+        "5.0",
+        "W\n46\n⚫️",
+        "L\n4\n⚪️",
+        "W\n33\n⚫️",
+        "W\n18\n⚪️",
+        "W\n14\n⚪️",
+        "L\n6\n⚫️",
+        "W\n15\n⚪️"
+      ],
+      "playerLinks": [
+        {
+          "href": "/player/16727150",
+          "text": "16727150"
+        }
+      ]
+    },
+    {
+      "sourceRow": 12,
+      "cells": [
+        "6\nLA",
+        "Prince Jhamie\nREYES\n32528936\n/\nR\n1746\n1924",
+        "5.0",
+        "W\n21\n⚪️",
+        "W\n10\n⚫️",
+        "D\n3\n⚪️",
+        "W\n4\n⚪️",
+        "D\n9\n⚫️",
+        "W\n5\n⚪️",
+        "L\n1\n⚫️"
+      ],
+      "playerLinks": [
+        {
+          "href": "/player/32528936",
+          "text": "32528936"
+        }
+      ]
+    },
+    {
+      "sourceRow": 14,
+      "cells": [
+        "7\nLA",
+        "Marcel Eugene\nWILDER\n15137535\n/\nR\n1688\n1764",
+        "5.0",
+        "L\n2\n⚫️",
+        "W\n43\n⚪️",
+        "W\n49\n⚫️",
+        "L\n11\n⚪️",
+        "W\n26\n⚫️",
+        "W\n13\n⚪️",
+        "W\n14\n⚪️"
+      ],
+      "playerLinks": [
+        {
+          "href": "/player/15137535",
+          "text": "15137535"
+        }
+      ]
+    },
+    {
+      "sourceRow": 16,
+      "cells": [
+        "8\nLA",
+        "Dex\nWEBSTER\n13743486\n/\nR\n2253\n2241",
+        "4.5",
+        "W\n25\n⚫️",
+        "L\n11\n⚪️",
+        "W\n31\n⚫️",
+        "W\n12\n⚪️",
+        "W\n17\n⚫️",
+        "D\n2\n⚪️",
+        "U"
+      ],
+      "playerLinks": [
+        {
+          "href": "/player/13743486",
+          "text": "13743486"
+        }
+      ]
+    },
+    {
+      "sourceRow": 18,
+      "cells": [
+        "9\nLA",
+        "Mitchell\nCOSTANZA\n11489061\n/\nR\n1924\n1941",
+        "4.5",
+        "W\n27\n⚪️",
+        "W\n45\n⚫️",
+        "D\n4\n⚫️",
+        "W\n3\n⚪️",
+        "D\n6\n⚪️",
+        "L\n1\n⚫️",
+        "D\n11\n⚫️"
+      ],
+      "playerLinks": [
+        {
+          "href": "/player/11489061",
+          "text": "11489061"
+        }
+      ]
+    },
+    {
+      "sourceRow": 20,
+      "cells": [
+        "10\nLA",
+        "James Eryk\nHARGROVE\n12694454\n/\nR\n1900\n1900",
+        "4.5",
+        "W\n28\n⚫️",
+        "L\n6\n⚪️",
+        "D\n25\n⚫️",
+        "W\n38\n⚪️",
+        "W\n37\n⚪️",
+        "L\n3\n⚫️",
+        "W\n22\n⚪️"
+      ],
+      "playerLinks": [
+        {
+          "href": "/player/12694454",
+          "text": "12694454"
+        }
+      ]
+    },
+    {
+      "sourceRow": 22,
+      "cells": [
+        "11\nLA",
+        "Nathaniel\nRILEY\n11352758\n/\nR\n1910\n1925",
+        "4.5",
+        "W\n20\n⚪️",
+        "W\n8\n⚫️",
+        "L\n14\n⚪️",
+        "W\n7\n⚫️",
+        "L\n15\n⚪️",
+        "W\n23\n⚫️",
+        "D\n9\n⚪️"
+      ],
+      "playerLinks": [
+        {
+          "href": "/player/11352758",
+          "text": "11352758"
+        }
+      ]
+    },
+    {
+      "sourceRow": 24,
+      "cells": [
+        "12\nLA",
+        "Jackson\nSERICE\n14659094\n/\nR\n1841\n1853",
+        "4.5",
+        "W\n34\n⚫️",
+        "L\n2\n⚪️",
+        "W\n26\n⚫️",
+        "L\n8\n⚫️",
+        "W\n19\n⚪️",
+        "D\n21\n⚫️",
+        "W\n24\n⚪️"
+      ],
+      "playerLinks": [
+        {
+          "href": "/player/14659094",
+          "text": "14659094"
+        }
+      ]
+    },
+    {
+      "sourceRow": 26,
+      "cells": [
+        "13\nLA",
+        "Rene W\nPHILLIPS\n11489052\n/\nR\n2000\n2000",
+        "4.0",
+        "W\n23\n⚪️",
+        "L\n18\n⚫️",
+        "W\n32\n⚪️",
+        "D\n22\n⚫️",
+        "D\n31\n⚪️",
+        "L\n7\n⚫️",
+        "W\n28\n⚫️"
+      ],
+      "playerLinks": [
+        {
+          "href": "/player/11489052",
+          "text": "11489052"
+        }
+      ]
+    },
+    {
+      "sourceRow": 28,
+      "cells": [
+        "14\nLA",
+        "Paul Anthony\nBAXTER\n12876351\n/\nR\n1986\n1971",
+        "4.0",
+        "W\n33\n⚫️",
+        "W\n41\n⚪️",
+        "W\n11\n⚫️",
+        "L\n2\n⚪️",
+        "L\n5\n⚫️",
+        "W\n30\n⚪️",
+        "L\n7\n⚫️"
+      ],
+      "playerLinks": [
+        {
+          "href": "/player/12876351",
+          "text": "12876351"
+        }
+      ]
+    },
+    {
+      "sourceRow": 30,
+      "cells": [
+        "15\nLA",
+        "Malik\nMARTIN\n30190077\n/\nR\n1954\n1951",
+        "4.0",
+        "W\n19\n⚪️",
+        "W\n36\n⚫️",
+        "W\n18\n⚪️",
+        "L\n1\n⚪️",
+        "W\n11\n⚫️",
+        "L\n4\n⚪️",
+        "L\n5\n⚫️"
+      ],
+      "playerLinks": [
+        {
+          "href": "/player/30190077",
+          "text": "30190077"
+        }
+      ]
+    },
+    {
+      "sourceRow": 32,
+      "cells": [
+        "16\nTX",
+        "Frank Edward\nBRACK\n12412040\n/\nR\n1912\n1908",
+        "4.0",
+        "W\n39\n⚫️",
+        "W\n40\n⚪️",
+        "L\n2\n⚫️",
+        "H",
+        "D\n21\n⚪️",
+        "W\n18\n⚫️",
+        "L\n3\n⚪️"
+      ],
+      "playerLinks": [
+        {
+          "href": "/player/12412040",
+          "text": "12412040"
+        }
+      ]
+    },
+    {
+      "sourceRow": 34,
+      "cells": [
+        "17\nLA",
+        "Carl T\nBEAVERS\n10212430\n/\nR\n1912\n1916",
+        "4.0",
+        "W\n44\n⚪️",
+        "W\n49\n⚫️",
+        "L\n1\n⚫️",
+        "W\n30\n⚪️",
+        "L\n8\n⚪️",
+        "W\n31\n⚫️",
+        "U"
+      ],
+      "playerLinks": [
+        {
+          "href": "/player/10212430",
+          "text": "10212430"
+        }
+      ]
+    },
+    {
+      "sourceRow": 36,
+      "cells": [
+        "18\nLA",
+        "Vaughn Daemian\nDELA BAJAN\n31396931\n/\nR\n1751\n1761",
+        "4.0",
+        "W\n26\n⚫️",
+        "W\n13\n⚪️",
+        "L\n15\n⚫️",
+        "L\n5\n⚫️",
+        "W\n27\n⚪️",
+        "L\n16\n⚪️",
+        "W\n33\n⚫️"
+      ],
+      "playerLinks": [
+        {
+          "href": "/player/31396931",
+          "text": "31396931"
+        }
+      ]
+    },
+    {
+      "sourceRow": 38,
+      "cells": [
+        "19\nLA",
+        "Kevin\nCLOUD\n32420868\n/\nR\n1436\n1487",
+        "4.0",
+        "L\n15\n⚫️",
+        "W\n35\n⚪️",
+        "L\n41\n⚫️",
+        "W\n49\n⚪️",
+        "L\n12\n⚫️",
+        "W\n45\n⚪️",
+        "W\n30\n⚫️"
+      ],
+      "playerLinks": [
+        {
+          "href": "/player/32420868",
+          "text": "32420868"
+        }
+      ]
+    },
+    {
+      "sourceRow": 40,
+      "cells": [
+        "20\nLA",
+        "Joseph\nCASBY SR.\n12595721\n/\nR\n1150\n1326",
+        "4.0",
+        "L\n11\n⚫️",
+        "L\n25\n⚪️",
+        "L\n24\n⚫️",
+        "W\n35\n⚪️",
+        "W\n49\n⚫️",
+        "W\n42\n⚪️",
+        "W\n32\n⚫️"
+      ],
+      "playerLinks": [
+        {
+          "href": "/player/12595721",
+          "text": "12595721"
+        }
+      ]
+    },
+    {
+      "sourceRow": 42,
+      "cells": [
+        "21\nLA",
+        "Adam S\nCAVENEY\n12497048\n/\nR\n2034\n2000",
+        "3.5",
+        "L\n6\n⚫️",
+        "W\n48\n⚪️",
+        "D\n38\n⚫️",
+        "W\n34\n⚪️",
+        "D\n16\n⚫️",
+        "D\n12\n⚪️",
+        "U"
+      ],
+      "playerLinks": [
+        {
+          "href": "/player/12497048",
+          "text": "12497048"
+        }
+      ]
+    },
+    {
+      "sourceRow": 44,
+      "cells": [
+        "22\nLA",
+        "Roy\nYUAN\n30770821\n/\nR\n1830\n1814",
+        "3.5",
+        "W\n35\n⚫️",
+        "L\n1\n⚪️",
+        "W\n45\n⚫️",
+        "D\n13\n⚪️",
+        "L\n3\n⚫️",
+        "W\n32\n⚪️",
+        "L\n10\n⚫️"
+      ],
+      "playerLinks": [
+        {
+          "href": "/player/30770821",
+          "text": "30770821"
+        }
+      ]
+    },
+    {
+      "sourceRow": 46,
+      "cells": [
+        "23\nLA",
+        "John Kenneth T\nNER\n15446333\n/\nR\n1692\n1695",
+        "3.5",
+        "L\n13\n⚫️",
+        "W\n28\n⚪️",
+        "W\n40\n⚫️",
+        "W\n41\n⚪️",
+        "L\n4\n⚫️",
+        "L\n11\n⚪️",
+        "D\n26\n⚫️"
+      ],
+      "playerLinks": [
+        {
+          "href": "/player/15446333",
+          "text": "15446333"
+        }
+      ]
+    },
+    {
+      "sourceRow": 48,
+      "cells": [
+        "24\nLA",
+        "Ramon\nTAGORDA\n12840610\n/\nR\n1706\n1647",
+        "3.5",
+        "L\n45\n⚪️",
+        "L\n27\n⚫️",
+        "W\n20\n⚪️",
+        "D\n39\n⚫️",
+        "W\n29\n⚪️",
+        "W\n37\n⚫️",
+        "L\n12\n⚫️"
+      ],
+      "playerLinks": [
+        {
+          "href": "/player/12840610",
+          "text": "12840610"
+        }
+      ]
+    },
+    {
+      "sourceRow": 50,
+      "cells": [
+        "25\nLA",
+        "Anthony\nCRYER\n32684996\n/\nR\n1468\n1486\n /19",
+        "3.5",
+        "L\n8\n⚪️",
+        "W\n20\n⚫️",
+        "D\n10\n⚪️",
+        "L\n37\n⚫️",
+        "D\n42\n⚪️",
+        "W\n44\n⚫️",
+        "D\n27\n⚪️"
+      ],
+      "playerLinks": [
+        {
+          "href": "/player/32684996",
+          "text": "32684996"
+        }
+      ]
+    },
+    {
+      "sourceRow": 52,
+      "cells": [
+        "26\nLA",
+        "Vihas\nMURRU\n31891143\n/\nR\n1415\n1444",
+        "3.5",
+        "L\n18\n⚪️",
+        "W\n29\n⚫️",
+        "L\n12\n⚪️",
+        "W\n46\n⚫️",
+        "L\n7\n⚪️",
+        "W\n40\n⚫️",
+        "D\n23\n⚪️"
+      ],
+      "playerLinks": [
+        {
+          "href": "/player/31891143",
+          "text": "31891143"
+        }
+      ]
+    },
+    {
+      "sourceRow": 54,
+      "cells": [
+        "27\nLA",
+        "Radoslaw\nZIEMBA\n32349288\n/\nR\n1329\n1383",
+        "3.5",
+        "L\n9\n⚫️",
+        "W\n24\n⚪️",
+        "L\n30\n⚫️",
+        "W\n40\n⚪️",
+        "L\n18\n⚫️",
+        "W\n34\n⚪️",
+        "D\n25\n⚫️"
+      ],
+      "playerLinks": [
+        {
+          "href": "/player/32349288",
+          "text": "32349288"
+        }
+      ]
+    },
+    {
+      "sourceRow": 56,
+      "cells": [
+        "28\nLA",
+        "Jacob\nBREAUX\n30945472\n/\nR\n1259\n1315\n /18",
+        "3.5",
+        "L\n10\n⚪️",
+        "L\n23\n⚫️",
+        "W\n47\n⚪️",
+        "X\n50",
+        "H",
+        "W\n36\n⚫️",
+        "L\n13\n⚪️"
+      ],
+      "playerLinks": [
+        {
+          "href": "/player/30945472",
+          "text": "30945472"
+        }
+      ]
+    },
+    {
+      "sourceRow": 58,
+      "cells": [
+        "29\nLA",
+        "Ian\nFUSELIER\n33245318\n/\nR\n----\n1384\n /7",
+        "3.5",
+        "L\n30\n⚫️",
+        "L\n26\n⚪️",
+        "D\n51\n⚫️",
+        "W\n48\n⚪️",
+        "L\n24\n⚫️",
+        "W\n43\n⚪️",
+        "W\n44\n⚫️"
+      ],
+      "playerLinks": [
+        {
+          "href": "/player/33245318",
+          "text": "33245318"
+        }
+      ]
+    },
+    {
+      "sourceRow": 60,
+      "cells": [
+        "30\nTX",
+        "Bryan\nBUTLER\n31906704\n/\nR\n1797\n1758",
+        "3.0",
+        "W\n29\n⚪️",
+        "L\n3\n⚫️",
+        "W\n27\n⚪️",
+        "L\n17\n⚫️",
+        "W\n33\n⚪️",
+        "L\n14\n⚫️",
+        "L\n19\n⚪️"
+      ],
+      "playerLinks": [
+        {
+          "href": "/player/31906704",
+          "text": "31906704"
+        }
+      ]
+    },
+    {
+      "sourceRow": 62,
+      "cells": [
+        "31\nLA",
+        "Jace A\nETIENNE\n12546378\n/\nR\n1700\n1713",
+        "3.0",
+        "H",
+        "X\n50",
+        "L\n8\n⚪️",
+        "W\n36\n⚫️",
+        "D\n13\n⚫️",
+        "L\n17\n⚪️",
+        "U"
+      ],
+      "playerLinks": [
+        {
+          "href": "/player/12546378",
+          "text": "12546378"
+        }
+      ]
+    },
+    {
+      "sourceRow": 64,
+      "cells": [
+        "32\nLA",
+        "Hannah\nREN\n30884711\n/\nR\n1522\n1499",
+        "3.0",
+        "L\n1\n⚫️",
+        "W\n46\n⚪️",
+        "L\n13\n⚫️",
+        "W\n45\n⚪️",
+        "W\n39\n⚪️",
+        "L\n22\n⚫️",
+        "L\n20\n⚪️"
+      ],
+      "playerLinks": [
+        {
+          "href": "/player/30884711",
+          "text": "30884711"
+        }
+      ]
+    },
+    {
+      "sourceRow": 66,
+      "cells": [
+        "33\nLA",
+        "Abdiel David\nRODRIGUEZ\n32699022\n/\nR\n1452\n1452",
+        "3.0",
+        "L\n14\n⚪️",
+        "W\n47\n⚫️",
+        "L\n5\n⚪️",
+        "W\n44\n⚫️",
+        "L\n30\n⚫️",
+        "W\n39\n⚪️",
+        "L\n18\n⚪️"
+      ],
+      "playerLinks": [
+        {
+          "href": "/player/32699022",
+          "text": "32699022"
+        }
+      ]
+    },
+    {
+      "sourceRow": 68,
+      "cells": [
+        "34\nLA",
+        "Michael\nANDERSON\n33182772\n/\nR\n558\n873\n /10",
+        "3.0",
+        "L\n12\n⚪️",
+        "B",
+        "W\n48\n⚫️",
+        "L\n21\n⚫️",
+        "L\n36\n⚪️",
+        "L\n27\n⚫️",
+        "W\n47\n⚪️"
+      ],
+      "playerLinks": [
+        {
+          "href": "/player/33182772",
+          "text": "33182772"
+        }
+      ]
+    },
+    {
+      "sourceRow": 70,
+      "cells": [
+        "35\nLA",
+        "Hector Roland\nREEVES\n31717987\n/\nR\n----\n1174\n /10",
+        "3.0",
+        "L\n22\n⚪️",
+        "L\n19\n⚫️",
+        "L\n44\n⚪️",
+        "L\n20\n⚫️",
+        "W\n51\n⚫️",
+        "W\n49\n⚪️",
+        "W\n45\n⚫️"
+      ],
+      "playerLinks": [
+        {
+          "href": "/player/31717987",
+          "text": "31717987"
+        }
+      ]
+    },
+    {
+      "sourceRow": 72,
+      "cells": [
+        "36\nLA",
+        "Roland D\nBENNETT\n12568990\n/\nR\n1641\n1595",
+        "2.5",
+        "W\n51\n⚫️",
+        "L\n15\n⚪️",
+        "H",
+        "L\n31\n⚪️",
+        "W\n34\n⚫️",
+        "L\n28\n⚪️",
+        "U"
+      ],
+      "playerLinks": [
+        {
+          "href": "/player/12568990",
+          "text": "12568990"
+        }
+      ]
+    },
+    {
+      "sourceRow": 74,
+      "cells": [
+        "37\nLA",
+        "Gregory\nNATAL\n31912622\n/\nR\n1615\n1574",
+        "2.5",
+        "L\n49\n⚪️",
+        "W\n44\n⚫️",
+        "H",
+        "W\n25\n⚪️",
+        "L\n10\n⚫️",
+        "L\n24\n⚪️",
+        "U"
+      ],
+      "playerLinks": [
+        {
+          "href": "/player/31912622",
+          "text": "31912622"
+        }
+      ]
+    },
+    {
+      "sourceRow": 76,
+      "cells": [
+        "38\nLA",
+        "Ishan\nSAMANT\n32093700\n/\nR\n1487\n1504",
+        "2.5",
+        "L\n4\n⚫️",
+        "W\n51\n⚪️",
+        "D\n21\n⚪️",
+        "L\n10\n⚫️",
+        "U",
+        "H",
+        "H"
+      ],
+      "playerLinks": [
+        {
+          "href": "/player/32093700",
+          "text": "32093700"
+        }
+      ]
+    },
+    {
+      "sourceRow": 78,
+      "cells": [
+        "39\nLA",
+        "Jonathon\nMARKS\n32190448\n/\nR\n1165\n1206",
+        "2.5",
+        "L\n16\n⚪️",
+        "W\n42\n⚫️",
+        "H",
+        "D\n24\n⚪️",
+        "L\n32\n⚫️",
+        "L\n33\n⚫️",
+        "D\n40\n⚪️"
+      ],
+      "playerLinks": [
+        {
+          "href": "/player/32190448",
+          "text": "32190448"
+        }
+      ]
+    },
+    {
+      "sourceRow": 80,
+      "cells": [
+        "40\nLA",
+        "Bryce Carter\nBRABAND\n32824058\n/\nR\n650\n991\n /12",
+        "2.5",
+        "W\n42\n⚪️",
+        "L\n16\n⚫️",
+        "L\n23\n⚪️",
+        "L\n27\n⚫️",
+        "W\n48\n⚫️",
+        "L\n26\n⚪️",
+        "D\n39\n⚫️"
+      ],
+      "playerLinks": [
+        {
+          "href": "/player/32824058",
+          "text": "32824058"
+        }
+      ]
+    },
+    {
+      "sourceRow": 82,
+      "cells": [
+        "41\nLA",
+        "Austin\nJANUSA\n16531240\n/\nR\n1884\n1855",
+        "2.0",
+        "W\n47\n⚪️",
+        "L\n14\n⚫️",
+        "W\n19\n⚪️",
+        "L\n23\n⚫️",
+        "U",
+        "U",
+        "U"
+      ],
+      "playerLinks": [
+        {
+          "href": "/player/16531240",
+          "text": "16531240"
+        }
+      ]
+    },
+    {
+      "sourceRow": 84,
+      "cells": [
+        "42\nLA",
+        "L Steven\nMINVIELLE\n10379504\n/\nR\n1600\n1600",
+        "2.0",
+        "L\n40\n⚫️",
+        "L\n39\n⚪️",
+        "H",
+        "W\n51\n⚪️",
+        "D\n25\n⚫️",
+        "L\n20\n⚫️",
+        "U"
+      ],
+      "playerLinks": [
+        {
+          "href": "/player/10379504",
+          "text": "10379504"
+        }
+      ]
+    },
+    {
+      "sourceRow": 86,
+      "cells": [
+        "43\nLA",
+        "Nicholas\nLUTZ\n32556798\n/\nR\n1389\n1306\n /21",
+        "2.0",
+        "L\n3\n⚪️",
+        "L\n7\n⚫️",
+        "L\n46\n⚪️",
+        "L\n47\n⚫️",
+        "B",
+        "L\n29\n⚫️",
+        "W\n49\n⚪️"
+      ],
+      "playerLinks": [
+        {
+          "href": "/player/32556798",
+          "text": "32556798"
+        }
+      ]
+    },
+    {
+      "sourceRow": 88,
+      "cells": [
+        "44\nLA",
+        "Torian Latravis\nWELLS\n30692424\n/\nR\n1172\n1184",
+        "2.0",
+        "L\n17\n⚫️",
+        "L\n37\n⚪️",
+        "W\n35\n⚫️",
+        "L\n33\n⚪️",
+        "W\n46\n⚫️",
+        "L\n25\n⚪️",
+        "L\n29\n⚪️"
+      ],
+      "playerLinks": [
+        {
+          "href": "/player/30692424",
+          "text": "30692424"
+        }
+      ]
+    },
+    {
+      "sourceRow": 90,
+      "cells": [
+        "45\nLA",
+        "Lorna Zoe\nAPPER\n12533911\n/\nR\n1132\n1152",
+        "2.0",
+        "W\n24\n⚫️",
+        "L\n9\n⚪️",
+        "L\n22\n⚪️",
+        "L\n32\n⚫️",
+        "W\n47\n⚪️",
+        "L\n19\n⚫️",
+        "L\n35\n⚪️"
+      ],
+      "playerLinks": [
+        {
+          "href": "/player/12533911",
+          "text": "12533911"
+        }
+      ]
+    },
+    {
+      "sourceRow": 92,
+      "cells": [
+        "46\nLA",
+        "Sara\nBROOKS\n32530917\n/\nR\n1120\n1109",
+        "2.0",
+        "L\n5\n⚪️",
+        "L\n32\n⚫️",
+        "W\n43\n⚫️",
+        "L\n26\n⚪️",
+        "L\n44\n⚪️",
+        "L\n47\n⚫️",
+        "W\n51\n⚫️"
+      ],
+      "playerLinks": [
+        {
+          "href": "/player/32530917",
+          "text": "32530917"
+        }
+      ]
+    },
+    {
+      "sourceRow": 94,
+      "cells": [
+        "47\nLA",
+        "Mason\nCLOUD\n32420924\n/\nR\n915\n955",
+        "2.0",
+        "L\n41\n⚫️",
+        "L\n33\n⚪️",
+        "L\n28\n⚫️",
+        "W\n43\n⚪️",
+        "L\n45\n⚫️",
+        "W\n46\n⚪️",
+        "L\n34\n⚫️"
+      ],
+      "playerLinks": [
+        {
+          "href": "/player/32420924",
+          "text": "32420924"
+        }
+      ]
+    },
+    {
+      "sourceRow": 96,
+      "cells": [
+        "48\nLA",
+        "Hershel\nSLATON JR\n12049250\n/\nR\n1400\n1400",
+        "1.5",
+        "H",
+        "L\n21\n⚫️",
+        "L\n34\n⚪️",
+        "L\n29\n⚫️",
+        "L\n40\n⚪️",
+        "W\n51\n⚪️",
+        "U"
+      ],
+      "playerLinks": [
+        {
+          "href": "/player/12049250",
+          "text": "12049250"
+        }
+      ]
+    },
+    {
+      "sourceRow": 98,
+      "cells": [
+        "49\nLA",
+        "Kevin\nKABACHNIK\n17055557\n/\nR\n1114\n1109",
+        "1.0",
+        "W\n37\n⚫️",
+        "L\n17\n⚪️",
+        "L\n7\n⚪️",
+        "L\n19\n⚫️",
+        "L\n20\n⚪️",
+        "L\n35\n⚫️",
+        "L\n43\n⚫️"
+      ],
+      "playerLinks": [
+        {
+          "href": "/player/17055557",
+          "text": "17055557"
+        }
+      ]
+    },
+    {
+      "sourceRow": 100,
+      "cells": [
+        "50",
+        "Gamal Belal\nFAID JR.\n33234618",
+        "1.0",
+        "H",
+        "F\n31",
+        "H",
+        "F\n28",
+        "U",
+        "U",
+        "U"
+      ],
+      "playerLinks": [
+        {
+          "href": "/player/33234618",
+          "text": "33234618"
+        }
+      ]
+    },
+    {
+      "sourceRow": 102,
+      "cells": [
+        "51\nLA",
+        "Jude\nBRABAND\n32824009\n/\nR\n1117\n1057\n /14",
+        "0.5",
+        "L\n36\n⚪️",
+        "L\n38\n⚫️",
+        "D\n29\n⚪️",
+        "L\n42\n⚫️",
+        "L\n35\n⚪️",
+        "L\n48\n⚫️",
+        "L\n46\n⚪️"
+      ],
+      "playerLinks": [
+        {
+          "href": "/player/32824009",
+          "text": "32824009"
+        }
+      ]
+    }
+  ]
+}

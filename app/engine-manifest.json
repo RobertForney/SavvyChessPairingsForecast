@@ -1,0 +1,14 @@
+{
+  "name": "BBP Pairings",
+  "version": "6.0.0",
+  "ruleEdition": "FIDE Dutch 2026-02-01",
+  "releaseUrl": "https://github.com/BieremaBoyzProgramming/bbpPairings/releases/tag/v6.0.0",
+  "sourceCommit": "16a000f9811de322b0e835d5643198226165b5a9",
+  "platform": "windows-x86_64",
+  "archiveUrl": "https://github.com/BieremaBoyzProgramming/bbpPairings/releases/download/v6.0.0/bbpPairings-v6.0.0-x86_64-pc-windows.zip",
+  "archiveSha256": "d2bfc61cbd291a5458f18adccb43b19b6f1be40a9c0cc86a5142b605298dc0d7",
+  "archiveBytes": 595874,
+  "executableSha256": "1c9ce6a8538559c10d8b953399b3c712bf2b780756af8af9881bec0769cca9ac",
+  "executable": ".local/engines/bbp-6.0.0/bbpPairings.exe",
+  "license": "Apache-2.0 with official Windows build notices in installed LICENSE.txt"
+}

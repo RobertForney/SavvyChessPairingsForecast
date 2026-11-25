@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#173e35">
+  <meta name="description" content="Review tournament results and explore explainable Swiss pairing forecasts with configurable tournament rules.">
+  <title>Savvy Pairings · Tournament workspace</title>
+  <link rel="manifest" href="/manifest.webmanifest">
+  <link rel="icon" href="/icons/icon.svg" type="image/svg+xml">
+  <link rel="icon" href="/icons/icon-192.png" type="image/png" sizes="192x192">
+  <link rel="apple-touch-icon" href="/icons/apple-touch-icon.png" sizes="180x180">
+  <link rel="stylesheet" href="/styles.css">
+  <script src="/pwa.js" defer></script>
+  <script src="/follow.js" defer></script>
+  <script src="/director.js" defer></script>
+  <script src="/simulation.js" defer></script>
+  <script src="/app.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to workspace</a>
+  <aside class="sidebar">
+    <a class="brand" href="#follow" aria-label="Savvy Pairings home"><span class="brand-knight" aria-hidden="true">♞</span><span>Savvy<span class="brand-sub">PAIRINGS FORECAST</span></span></a>
+    <div class="workspace-label">TOURNAMENT WORKSPACE</div>
+    <nav aria-label="Main navigation">
+      <a href="#follow" data-view="follow" aria-label="Follow tournament"><span class="nav-icon" aria-hidden="true">◎</span><span class="nav-label"><span class="nav-full">Follow tournament</span><span class="nav-short">Follow</span></span></a>
+      <a href="#director" data-view="director" aria-label="Run tournament"><span class="nav-icon" aria-hidden="true">♜</span><span class="nav-label"><span class="nav-full">Run tournament</span><span class="nav-short">Run</span></span></a>
+      <a href="#forecast" data-view="forecast" aria-label="Pairing forecast"><span class="nav-icon" aria-hidden="true">▦</span><span class="nav-label"><span class="nav-full">Pairing forecast</span><span class="nav-short">Forecast</span></span></a>
+      <a href="#players" data-view="players" aria-label="Players & results"><span class="nav-icon" aria-hidden="true">♙</span><span class="nav-label"><span class="nav-full">Players & results</span><span class="nav-short">Players</span></span></a>
+      <a href="#import" data-view="import" aria-label="Import results"><span class="nav-icon" aria-hidden="true">↥</span><span class="nav-label"><span class="nav-full">Import results</span><span class="nav-short">Import</span></span></a>
+      <a href="#simulation" data-view="simulation" aria-label="Tournament simulation"><span class="nav-icon" aria-hidden="true">↻</span><span class="nav-label"><span class="nav-full">Simulation</span><span class="nav-short">Replay</span></span></a>
+      <a href="#rulebook" data-view="rulebook" aria-label="Rules & sources"><span class="nav-icon" aria-hidden="true">▤</span><span class="nav-label"><span class="nav-full">Rules & sources</span><span class="nav-short">Rules</span></span></a>
+    </nav>
+    <div class="sidebar-note"><span class="tiny-label">A LITTLE FORESIGHT</span><p>Every pairing has a reason.<br>See the constraints behind it.</p><span class="chess-mini" aria-hidden="true">♜ ♞ ♝ ♛ ♚ ♝ ♞ ♜</span></div>
+    <div class="sidebar-footer"><span class="status-dot"></span> Tournament workspace<small>Forecasts use the pairing service.</small></div>
+  </aside>
+  <div class="app-shell">
+    <header class="topbar"><span class="breadcrumb">Workspace <span>/</span> <strong id="event-label">Loading tournament…</strong></span><div class="topbar-actions"><span class="edition-label">SWISS PAIRING EXPLORER</span><button id="install-app" class="secondary install-button" type="button" aria-haspopup="dialog" hidden>Install app</button></div></header>
+    <div id="connection-banner" class="connection-banner" role="status" aria-live="polite" hidden></div>
+    <main id="main" tabindex="-1"><div class="initial-loading"><span class="loading-piece" aria-hidden="true">♞</span><h1>Opening your tournament</h1><p>Reading the results and checking the next round.</p></div></main>
+    <footer class="app-footer"><span>Savvy Pairings</span><span>Explainable forecasts. Tournament director review required.</span></footer>
+  </div>
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+  <dialog id="player-dialog" aria-labelledby="player-editor-title"></dialog>
+  <dialog id="json-dialog" aria-labelledby="json-editor-title"></dialog>
+  <dialog id="install-dialog" class="install-dialog" aria-labelledby="install-title">
+    <div class="dialog-header"><h2 id="install-title">Install Savvy Pairings</h2><button id="close-install" class="icon-button" type="button" aria-label="Close install instructions">✕</button></div>
+    <div class="dialog-body">
+      <p id="install-instructions"></p>
+      <p class="muted">The installed app uses the same tournament workspace as this website. New forecasts, imports, edits, and tournament replay require a connection to the pairing service.</p>
+      <p class="muted">When disconnected, a previously opened workspace can show the last saved view. Its forecasts may be out of date.</p>
+    </div>
+  </dialog>
+</body>
+</html>
